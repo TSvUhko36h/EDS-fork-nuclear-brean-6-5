@@ -55,10 +55,10 @@ FEED_URL         = "https://cdn.wardex.space/changelog.xml"
 CHANGELOG_FILE = "Resources/Changelog/Changelog.yml"
 
 TYPES_TO_EMOJI = {
-    "Исправлено":    "🐛",
-    "Добавлено":    "🆕",
-    "Удалено": "❌",
-    "Фишка":  "⚒️"
+    "Fix":    "🐛",
+    "Add":    "🆕",
+    "Remove": "❌",
+    "Tweak":  "⚒️"
 }
 
 XML_NS = "https://spacestation14.com/changelog_rss"
